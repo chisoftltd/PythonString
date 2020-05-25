@@ -37,8 +37,16 @@ videos"""
 
 print(text)
 
+# String Method
+
 print(text.capitalize())
 
 print(text.center(20))
 
 print(text.count("it"))
+
+print(text.upper())
+
+print(text.swapcase())
+
+print(text.find("th", 1, len(text)))

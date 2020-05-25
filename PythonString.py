@@ -50,3 +50,5 @@ print(text.upper())
 print(text.swapcase())
 
 print(text.find("th", 1, len(text)))
+
+print(text.split())
